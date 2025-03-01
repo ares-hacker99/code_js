@@ -52,3 +52,4 @@ console.log("Le 6ème nombre de Fibonacci est:", fibonacci("6"));*/
     return n * factorial(n - 1);
 }
 console.log("La factorielle de 5 est:", factorial(2));*/
+
